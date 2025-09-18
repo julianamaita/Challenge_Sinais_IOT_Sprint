@@ -59,5 +59,3 @@ Neste projeto:
 * O armazenamento é **local** e os dados faciais são gravados apenas com o consentimento do usuário.
 * O sistema **não coleta nem compartilha informações** com terceiros.
 * Este código foi desenvolvido para **fins educacionais e acadêmicos**, não devendo ser usado em aplicações que possam violar privacidade ou direitos individuais.
-
-```
